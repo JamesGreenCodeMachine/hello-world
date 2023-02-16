@@ -22,6 +22,6 @@ The amount of support you get will be reviewed each year.
 
 You have three different options on how you receive your personal budget. These are:
 
-a direct payment
-an individual service fund
-a council managed fund
+- a direct payment
+- an individual service fund
+- a council managed fund
