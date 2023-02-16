@@ -1,3 +1,5 @@
+## What a personal budget is
+
 A personal budget is the amount of money Essex County Council will pay towards the care and support you need.
 
 It’s made up of the amount we must pay and the amount, if any, you must pay.
