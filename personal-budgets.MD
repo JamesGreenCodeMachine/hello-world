@@ -12,11 +12,13 @@ They will talk to you about your strengths and what you can do for yourself, wit
 
 If you need more help to achieve your outcomes, we will work out how much this support costs. We will then give you a personal budget to pay for it.
 
-The amount you get will depend on your income and savings, so we'll need to carry out a financial assessment first.
+The amount you get will depend on your income and savings, so we'll need to carry out a financial assessment first. 
 
-To request a care assessment, contact Adult Social Care
+A personal budget itself is not counted as income and will not affect any other income that you receive. 
 
-The amount of support you get will be reviewed each year.
+To request a care assessment, [contact Adult Social Care](https://www.essex.gov.uk/get-social-care-help)
+
+The amount of support you get will be reviewed each year. If your circumstances change, you will need to let us know as soon as possible.
 
 ### How you receive your personal budget
 
